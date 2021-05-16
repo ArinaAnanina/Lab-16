@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(9,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(17,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(29,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(29,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(42,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(47,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(78,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(91,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(97,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(110,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(110,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(123,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(128,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(166,18): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(225,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабы №16\Source.cpp(238,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Лабы №16.vcxproj -> C:\Users\Арина\source\repos\Лабы №16\Debug\Лабы №16.exe
